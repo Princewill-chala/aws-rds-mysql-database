@@ -112,7 +112,6 @@ AWS Cloud
 
 - Navigated to **RDS → Snapshots**.
 - Confirmed that the snapshot status changed to **Available**.
-
 ![rds_snapshot](screenshots/rds_snapshot.png)
 
 ---
